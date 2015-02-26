@@ -8,6 +8,7 @@ display_width = 800
 display_height = 600
 
 white = (255,255,255)
+black = (0,0,0)
 
 green = (0,200,0)
 red = (200, 0, 0)
@@ -64,4 +65,3 @@ game_intro()
 game_loop()
 pygame.quit()
 quit()
-
